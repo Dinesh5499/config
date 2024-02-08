@@ -1,4 +1,3 @@
 db:
-  connection: mongodb://myDatabaseUser:D1fficultP%40ssw0rd@mongodb1.example.com:27317,mongodb2.example.com:27017/?replicaSet=mySet&authSource=authDB
-  username: devUser
+  connection: mongodb://myDataba
   password: {cipher}b03c73ceb36c042e87ce8d98bd57cf35306d0955136969558e0f46172a80ecf5
