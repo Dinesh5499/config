@@ -1,3 +1,2 @@
 db:
-  connection: mongodb://myDataba
-  password: {cipher}b03c73ceb36c042e87ce8d98bd57cf35306d0955136969558e0f46172a80ecf5
+  connection: xzfd
